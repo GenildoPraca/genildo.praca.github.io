@@ -1,1 +1,2 @@
 Hello, world.
+Segunda linha inserida.
